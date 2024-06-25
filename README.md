@@ -51,6 +51,8 @@ methodologies, the ECPEC literature review aims to advance the field of Natural 
 Processing by providing insights into the nuanced relationship between emotions and their
 triggers in textual conversations.
 
+![Model_Architecture](https://github.com/UtsvGrg/Natural_Language_Processing/blob/main/Image/Model_Architecture.png)
+
 ## Methodology
 
 We have also utilized a two layer phase for our emotion-cause pair extraction task. We have
@@ -87,6 +89,8 @@ non-trigger and 1 label as the trigger for that certain emotion.
 
 The dataset is based on TAFFC 2022 paper: Multimodal Emotion-Cause Pair Extraction in
 Conversations. It contains conversation from the popular TV show “Friends”.
+
+![Dataset](https://github.com/UtsvGrg/Natural_Language_Processing/blob/main/Image/Dataset.png)
 
 ## Observations
 

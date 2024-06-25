@@ -130,6 +130,8 @@ may inherently limit the effective communication of "sadness" and "anger."
 | Joy      | 0.45  |
 | Neutral  | 0.97  |
 
+### Phase 1 Scores
+
 | Model   | Score |
 |---------|-------|
 | Overall | 0.65  |
@@ -139,6 +141,8 @@ may inherently limit the effective communication of "sadness" and "anger."
 | Anger   | 0.60  |
 | Disgust | 0.52  |
 | Surprise| 0.59  |
+
+### Phase 2 Scores
 
 We have proposed a novel method for emotion cause extraction in conversation using an
 approach similar to NER according to our knowledge. We have modified the training data to

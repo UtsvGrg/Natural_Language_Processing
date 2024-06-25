@@ -119,6 +119,17 @@ may inherently limit the effective communication of "sadness" and "anger."
 
 ## Result & Findings
 
+| Emotions | Score |
+|----------|-------|
+| Overall  | 0.42  |
+| Anger    | 0.33  |
+| Fear     | 0.12  |
+| Disgust  | 0.28  |
+| Sadness  | 0.39  |
+| Surprise | 0.40  |
+| Joy      | 0.45  |
+| Neutral  | 0.97  |
+
 We have proposed a novel method for emotion cause extraction in conversation using an
 approach similar to NER according to our knowledge. We have modified the training data to
 form binary encoded labels with 0 for a trigger and 1 for non trigger which is being fed into a

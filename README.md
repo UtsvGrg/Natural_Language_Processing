@@ -11,7 +11,7 @@ recognize emotions and understand context and dependencies between previous toke
 sification to identify textual spans causing emotion shifts, employing six different models for various emotions using Named
 Entity Recognition (NER) techniques with BertForTokenClassification.
 
-NLP Project Report
+# NLP Project Report
 
 ## Introduction: Motivation
 Understanding the underlying causes of emotions expressed in conversations is crucial for

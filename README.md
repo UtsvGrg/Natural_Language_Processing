@@ -119,6 +119,10 @@ may inherently limit the effective communication of "sadness" and "anger."
 
 ## Result & Findings
 
+<table>
+    <tr>
+        <td>
+
 | Emotions | Score |
 |----------|-------|
 | Overall  | 0.42  |
@@ -129,6 +133,24 @@ may inherently limit the effective communication of "sadness" and "anger."
 | Surprise | 0.40  |
 | Joy      | 0.45  |
 | Neutral  | 0.97  |
+
+        </td>
+        <td>
+
+| Model   | Score |
+|---------|-------|
+| Overall | 0.65  |
+| Fear    | 0.51  |
+| Sadness | 0.62  |
+| Joy     | 0.58  |
+| Anger   | 0.60  |
+| Disgust | 0.52  |
+| Surprise| 0.59  |
+
+        </td>
+    </tr>
+</table>
+
 
 We have proposed a novel method for emotion cause extraction in conversation using an
 approach similar to NER according to our knowledge. We have modified the training data to
